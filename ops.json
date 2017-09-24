@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "e3f73c65-9be2-4dbd-a3fc-0c9fdbeca2ed",
+    "name": "macneale",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a0ebbc8d-e0b0-4c23-a965-efba61ff0ae8",
+    "name": "macmv",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "50122701-6e6c-41a7-afb9-35bbed274bd2",
+    "name": "purple_master",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

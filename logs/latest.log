@@ -1,0 +1,1820 @@
+[12:15:23] [Server thread/INFO]: Loading properties
+[12:15:23] [Server thread/INFO]: Default game type: SURVIVAL
+[12:15:23] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-7754231-94b0980 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[12:15:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:15:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:15:23] [Server thread/INFO]: Debug logging is disabled
+[12:15:23] [Server thread/INFO]: Generating keypair
+[12:15:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:15:23] [Server thread/INFO]: Using epoll channel type
+[12:15:23] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:15:23] [Server thread/INFO]: [SierrasServer] Loading SierrasServer v1.0
+[12:15:23] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:15:23] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:15:23] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:15:23] [Server thread/INFO]: Preparing level "world"
+[12:15:23] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:15:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:15:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:15:23] [Server thread/INFO]: Mob Spawn Range: 4
+[12:15:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:15:23] [Server thread/INFO]: Random Lighting Updates: false
+[12:15:23] [Server thread/INFO]: Structure Info Saving: true
+[12:15:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:15:23] [Server thread/INFO]: Max TNT Explosions: 100
+[12:15:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:15:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:15:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:15:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:15:23] [Server thread/INFO]: View Distance: 10
+[12:15:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:15:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:15:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:15:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:15:23] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:15:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:15:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:15:23] [Server thread/INFO]: Mob Spawn Range: 4
+[12:15:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:15:23] [Server thread/INFO]: Random Lighting Updates: false
+[12:15:23] [Server thread/INFO]: Structure Info Saving: true
+[12:15:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:15:23] [Server thread/INFO]: Max TNT Explosions: 100
+[12:15:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:15:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:15:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:15:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:15:23] [Server thread/INFO]: View Distance: 10
+[12:15:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:15:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:15:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:15:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:15:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:15:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:15:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:15:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:15:23] [Server thread/INFO]: Mob Spawn Range: 4
+[12:15:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:15:23] [Server thread/INFO]: Random Lighting Updates: false
+[12:15:23] [Server thread/INFO]: Structure Info Saving: true
+[12:15:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:15:23] [Server thread/INFO]: Max TNT Explosions: 100
+[12:15:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:15:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:15:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:15:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:15:23] [Server thread/INFO]: View Distance: 10
+[12:15:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:15:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:15:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:15:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:15:23] [Server thread/INFO]: Preparing start region for level 0 (Seed: -487818420767040655)
+[12:15:23] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7753403260964121153)
+[12:15:24] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7753403260964121153)
+[12:15:24] [Server thread/INFO]: [SierrasServer] Enabling SierrasServer v1.0
+[12:15:24] [Server thread/INFO]: [SierrasServer] Registering PlayerListener...
+[12:15:24] [Server thread/INFO]: [SierrasServer] Registered PlayerListener!
+[12:15:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:15:25] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:15:25] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:15:25] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:15:25] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:15:25] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:15:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:15:25] [Server thread/INFO]: Done (1.706s)! For help, type "help" or "?"
+[12:16:06] [User Authenticator #1/INFO]: UUID of player macmv is a0ebbc8d-e0b0-4c23-a965-efba61ff0ae8
+[12:16:06] [Server thread/INFO]: macmv[/127.0.0.1:34850] logged in with entity id 1 at ([world]-27.443121928332356, 110.5, 5.161023786509741)
+[12:16:33] [User Authenticator #2/INFO]: UUID of player purple_master is 50122701-6e6c-41a7-afb9-35bbed274bd2
+[12:16:33] [Server thread/INFO]: purple_master[/192.168.0.4:64807] logged in with entity id 5 at ([world]17.404217697630113, 114.52537197804739, -10.021591630724206)
+[12:18:12] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:18:12] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:18:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:18:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:18:12] [Server thread/INFO]: Debug logging is disabled
+[12:18:12] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:18:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:18:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:18:12] [Server thread/INFO]: Mob Spawn Range: 4
+[12:18:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:18:12] [Server thread/INFO]: Random Lighting Updates: false
+[12:18:12] [Server thread/INFO]: Structure Info Saving: true
+[12:18:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:18:12] [Server thread/INFO]: Max TNT Explosions: 100
+[12:18:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:18:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:18:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:18:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:18:12] [Server thread/INFO]: View Distance: 10
+[12:18:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:18:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:18:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:18:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:18:12] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:18:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:18:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:18:12] [Server thread/INFO]: Mob Spawn Range: 4
+[12:18:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:18:12] [Server thread/INFO]: Random Lighting Updates: false
+[12:18:12] [Server thread/INFO]: Structure Info Saving: true
+[12:18:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:18:12] [Server thread/INFO]: Max TNT Explosions: 100
+[12:18:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:18:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:18:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:18:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:18:12] [Server thread/INFO]: View Distance: 10
+[12:18:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:18:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:18:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:18:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:18:12] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:18:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:18:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:18:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:18:12] [Server thread/INFO]: Mob Spawn Range: 4
+[12:18:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:18:12] [Server thread/INFO]: Random Lighting Updates: false
+[12:18:12] [Server thread/INFO]: Structure Info Saving: true
+[12:18:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:18:12] [Server thread/INFO]: Max TNT Explosions: 100
+[12:18:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:18:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:18:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:18:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:18:12] [Server thread/INFO]: View Distance: 10
+[12:18:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:18:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:18:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:18:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:18:12] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:18:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:18:12] [Server thread/INFO]: [SierrasServer] Disabling SierrasServer v1.0
+[12:18:12] [Server thread/INFO]: [SierrasServer] Loading SierrasServer v1.0
+[12:18:12] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:18:12] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:18:12] [Server thread/INFO]: [SierrasServer] Enabling SierrasServer v1.0
+[12:18:12] [Server thread/INFO]: [SierrasServer] Registering PlayerListener...
+[12:18:12] [Server thread/INFO]: [SierrasServer] Registered PlayerListener!
+[12:18:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:18:13] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:18:13] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:18:13] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:18:13] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:18:13] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:18:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:18:13] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:18:18] [Server thread/INFO]: macmv issued server command: /plugins
+[12:19:33] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:19:33] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:19:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:19:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:19:33] [Server thread/INFO]: Debug logging is disabled
+[12:19:33] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:19:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:19:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:19:33] [Server thread/INFO]: Mob Spawn Range: 4
+[12:19:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:19:33] [Server thread/INFO]: Random Lighting Updates: false
+[12:19:33] [Server thread/INFO]: Structure Info Saving: true
+[12:19:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:19:33] [Server thread/INFO]: Max TNT Explosions: 100
+[12:19:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:19:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:19:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:19:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:19:33] [Server thread/INFO]: View Distance: 10
+[12:19:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:19:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:19:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:19:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:19:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:19:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:19:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:19:33] [Server thread/INFO]: Mob Spawn Range: 4
+[12:19:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:19:33] [Server thread/INFO]: Random Lighting Updates: false
+[12:19:33] [Server thread/INFO]: Structure Info Saving: true
+[12:19:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:19:33] [Server thread/INFO]: Max TNT Explosions: 100
+[12:19:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:19:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:19:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:19:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:19:33] [Server thread/INFO]: View Distance: 10
+[12:19:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:19:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:19:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:19:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:19:33] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:19:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:19:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:19:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:19:33] [Server thread/INFO]: Mob Spawn Range: 4
+[12:19:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:19:33] [Server thread/INFO]: Random Lighting Updates: false
+[12:19:33] [Server thread/INFO]: Structure Info Saving: true
+[12:19:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:19:33] [Server thread/INFO]: Max TNT Explosions: 100
+[12:19:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:19:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:19:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:19:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:19:33] [Server thread/INFO]: View Distance: 10
+[12:19:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:19:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:19:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:19:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:19:33] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:19:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:19:33] [Server thread/INFO]: [SierrasServer] Disabling SierrasServer v1.0
+[12:19:36] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:19:36] [Server thread/ERROR]: Ambiguous plugin name `Cubiness' for files `plugins/Cubiness.jar' and `plugins/SierrasServer.jar' in `plugins'
+[12:19:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:19:36] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:19:36] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:19:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:19:36] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:19:36] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:19:36] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:19:36] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:19:36] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:19:36] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:19:36] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:19:36] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:19:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:19:37] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:19:37] [Server thread/INFO]: macmv issued server command: /plugins
+[12:20:05] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:20:05] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:20:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:20:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:20:05] [Server thread/INFO]: Debug logging is disabled
+[12:20:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:20:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:20:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:20:05] [Server thread/INFO]: Mob Spawn Range: 4
+[12:20:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:20:05] [Server thread/INFO]: Random Lighting Updates: false
+[12:20:05] [Server thread/INFO]: Structure Info Saving: true
+[12:20:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:20:05] [Server thread/INFO]: Max TNT Explosions: 100
+[12:20:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:20:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:20:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:20:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:20:05] [Server thread/INFO]: View Distance: 10
+[12:20:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:20:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:20:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:20:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:20:05] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:20:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:20:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:20:05] [Server thread/INFO]: Mob Spawn Range: 4
+[12:20:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:20:05] [Server thread/INFO]: Random Lighting Updates: false
+[12:20:05] [Server thread/INFO]: Structure Info Saving: true
+[12:20:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:20:05] [Server thread/INFO]: Max TNT Explosions: 100
+[12:20:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:20:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:20:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:20:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:20:05] [Server thread/INFO]: View Distance: 10
+[12:20:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:20:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:20:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:20:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:20:05] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:20:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:20:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:20:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:20:05] [Server thread/INFO]: Mob Spawn Range: 4
+[12:20:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:20:05] [Server thread/INFO]: Random Lighting Updates: false
+[12:20:05] [Server thread/INFO]: Structure Info Saving: true
+[12:20:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:20:05] [Server thread/INFO]: Max TNT Explosions: 100
+[12:20:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:20:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:20:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:20:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:20:05] [Server thread/INFO]: View Distance: 10
+[12:20:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:20:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:20:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:20:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:20:05] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:20:05] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:20:05] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:20:08] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:20:08] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:20:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:20:08] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:20:08] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:20:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:20:08] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:20:08] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:20:08] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:20:08] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:20:08] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:20:08] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:20:08] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:20:08] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:20:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:20:08] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:20:10] [Server thread/INFO]: Plugins (3): [0;32;1mWorldEdit[0;37;1m, [0;32;1mVoxelSniper[0;37;1m, [0;32;1mCubiness[m
+[12:22:06] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:22:06] [Server thread/WARN]: [Cubiness] Task #16 for Cubiness v1.0 generated an exception
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:153) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:22:07] [Server thread/INFO]: ALL_KILLED[m
+[12:23:08] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:23:08] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:23:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:23:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:23:08] [Server thread/INFO]: Debug logging is disabled
+[12:23:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:23:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:23:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:23:08] [Server thread/INFO]: Mob Spawn Range: 4
+[12:23:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:23:08] [Server thread/INFO]: Random Lighting Updates: false
+[12:23:08] [Server thread/INFO]: Structure Info Saving: true
+[12:23:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:23:08] [Server thread/INFO]: Max TNT Explosions: 100
+[12:23:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:23:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:23:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:23:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:23:08] [Server thread/INFO]: View Distance: 10
+[12:23:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:23:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:23:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:23:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:23:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:23:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:23:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:23:08] [Server thread/INFO]: Mob Spawn Range: 4
+[12:23:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:23:08] [Server thread/INFO]: Random Lighting Updates: false
+[12:23:08] [Server thread/INFO]: Structure Info Saving: true
+[12:23:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:23:08] [Server thread/INFO]: Max TNT Explosions: 100
+[12:23:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:23:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:23:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:23:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:23:08] [Server thread/INFO]: View Distance: 10
+[12:23:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:23:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:23:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:23:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:23:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:23:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:23:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:23:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:23:08] [Server thread/INFO]: Mob Spawn Range: 4
+[12:23:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:23:08] [Server thread/INFO]: Random Lighting Updates: false
+[12:23:08] [Server thread/INFO]: Structure Info Saving: true
+[12:23:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:23:08] [Server thread/INFO]: Max TNT Explosions: 100
+[12:23:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:23:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:23:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:23:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:23:08] [Server thread/INFO]: View Distance: 10
+[12:23:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:23:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:23:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:23:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:23:08] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:23:08] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:23:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:23:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:23:08] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:23:08] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:23:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:23:09] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:23:09] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:23:09] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:23:09] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:23:09] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:23:09] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:23:09] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:23:09] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:23:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:23:09] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:23:13] [Server thread/INFO]: macmv issued server command: /tp 0 100 0
+[12:23:20] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:23:20] [Server thread/WARN]: [Cubiness] Task #21 for Cubiness v1.0 generated an exception
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:153) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:23:21] [Server thread/INFO]: ALL_KILLED[m
+[12:24:49] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:24:49] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:24:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:24:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:24:49] [Server thread/INFO]: Debug logging is disabled
+[12:24:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:24:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:24:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:24:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:24:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:24:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:24:49] [Server thread/INFO]: Structure Info Saving: true
+[12:24:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:24:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:24:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:24:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:24:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:24:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:24:49] [Server thread/INFO]: View Distance: 10
+[12:24:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:24:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:24:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:24:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:24:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:24:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:24:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:24:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:24:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:24:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:24:49] [Server thread/INFO]: Structure Info Saving: true
+[12:24:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:24:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:24:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:24:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:24:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:24:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:24:49] [Server thread/INFO]: View Distance: 10
+[12:24:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:24:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:24:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:24:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:24:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:24:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:24:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:24:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:24:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:24:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:24:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:24:49] [Server thread/INFO]: Structure Info Saving: true
+[12:24:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:24:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:24:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:24:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:24:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:24:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:24:49] [Server thread/INFO]: View Distance: 10
+[12:24:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:24:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:24:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:24:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:24:49] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:24:49] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:24:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:24:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:24:49] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:24:49] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:24:49] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:24:49] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:24:49] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:24:49] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:24:49] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:24:49] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:24:49] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:24:49] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:24:49] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:24:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:24:49] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:24:51] [Server thread/INFO]: macmv issued server command: /tp 0 100 0
+[12:25:00] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:00] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:01] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:01] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:02] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:02] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:03] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:03] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:04] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:04] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:05] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:05] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:06] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:06] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:07] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:07] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:08] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:08] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:09] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:09] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:10] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:10] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:11] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:11] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:12] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:12] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:13] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:13] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:14] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:14] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:15] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:25:15] [Server thread/WARN]: [Cubiness] Task #26 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:177) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.startGame(MurderMystery.java:149) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:52) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:43) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:25:15] [Server thread/INFO]: macmv issued server command: /reload
+[12:25:15] [Server thread/INFO]: macmv: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:25:15] [Server thread/INFO]: macmv: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:25:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:25:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:25:15] [Server thread/INFO]: Debug logging is disabled
+[12:25:15] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:25:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:25:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:25:15] [Server thread/INFO]: Mob Spawn Range: 4
+[12:25:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:25:15] [Server thread/INFO]: Random Lighting Updates: false
+[12:25:15] [Server thread/INFO]: Structure Info Saving: true
+[12:25:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:25:15] [Server thread/INFO]: Max TNT Explosions: 100
+[12:25:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:25:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:25:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:25:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:25:15] [Server thread/INFO]: View Distance: 10
+[12:25:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:25:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:25:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:25:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:25:15] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:25:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:25:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:25:15] [Server thread/INFO]: Mob Spawn Range: 4
+[12:25:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:25:15] [Server thread/INFO]: Random Lighting Updates: false
+[12:25:15] [Server thread/INFO]: Structure Info Saving: true
+[12:25:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:25:15] [Server thread/INFO]: Max TNT Explosions: 100
+[12:25:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:25:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:25:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:25:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:25:15] [Server thread/INFO]: View Distance: 10
+[12:25:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:25:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:25:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:25:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:25:15] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:25:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:25:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:25:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:25:15] [Server thread/INFO]: Mob Spawn Range: 4
+[12:25:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:25:15] [Server thread/INFO]: Random Lighting Updates: false
+[12:25:15] [Server thread/INFO]: Structure Info Saving: true
+[12:25:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:25:15] [Server thread/INFO]: Max TNT Explosions: 100
+[12:25:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:25:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:25:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:25:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:25:15] [Server thread/INFO]: View Distance: 10
+[12:25:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:25:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:25:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:25:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:25:15] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:25:15] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:25:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:25:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:25:15] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:25:15] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:25:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:25:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:25:16] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:25:16] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:25:16] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:25:16] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:25:16] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:25:16] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:25:16] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:25:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:25:16] [Server thread/INFO]: macmv: [0;32;1mReload complete.[m
+[12:25:17] [Server thread/INFO]: macmv issued server command: /tp 0 100 0
+[12:30:27] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:30:27] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:30:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:30:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:30:27] [Server thread/INFO]: Debug logging is disabled
+[12:30:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:30:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:30:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:27] [Server thread/INFO]: Structure Info Saving: true
+[12:30:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:30:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:27] [Server thread/INFO]: View Distance: 10
+[12:30:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:27] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:30:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:30:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:27] [Server thread/INFO]: Structure Info Saving: true
+[12:30:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:30:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:27] [Server thread/INFO]: View Distance: 10
+[12:30:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:27] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:30:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:30:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:30:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:27] [Server thread/INFO]: Structure Info Saving: true
+[12:30:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:30:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:27] [Server thread/INFO]: View Distance: 10
+[12:30:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:27] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:30:27] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:30:27] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:30:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:30:27] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:30:27] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:30:27] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:30:27] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:30:27] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:30:27] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:30:27] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:30:27] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:30:27] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:30:27] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:30:27] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:30:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:30:27] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:30:34] [Server thread/INFO]: macmv issued server command: /gamemode 2
+[12:30:37] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:30:37] [Server thread/INFO]: [macmv, hi, hello]
+[12:30:37] [Server thread/INFO]: [hi, macmv, hello]
+[12:30:38] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:39] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:40] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:41] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:42] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:43] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:44] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:45] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:46] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:58) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:47] [Server thread/WARN]: [Cubiness] Task #34 for Cubiness v1.0 generated an exception
+java.lang.NullPointerException: null
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$2(MurderMystery.java:77) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1288) ~[?:1.8.0_121]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.tellAll(MurderMystery.java:76) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.loop(MurderMystery.java:62) ~[?:?]
+	at net.cubiness.cubinessserver.murdermystery.MurderMystery.lambda$0(MurderMystery.java:44) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-7754231-94b0980]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[12:30:49] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:30:49] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:30:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:30:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:30:49] [Server thread/INFO]: Debug logging is disabled
+[12:30:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:30:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:30:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:49] [Server thread/INFO]: Structure Info Saving: true
+[12:30:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:30:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:49] [Server thread/INFO]: View Distance: 10
+[12:30:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:30:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:30:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:49] [Server thread/INFO]: Structure Info Saving: true
+[12:30:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:30:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:49] [Server thread/INFO]: View Distance: 10
+[12:30:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:30:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:30:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:49] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:30:49] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:49] [Server thread/INFO]: Structure Info Saving: true
+[12:30:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:30:49] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:49] [Server thread/INFO]: View Distance: 10
+[12:30:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:49] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:30:49] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:30:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:30:52] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:30:52] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:30:52] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:30:52] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:30:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:30:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:30:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:30:52] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:30:52] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:30:52] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:30:52] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:30:52] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:30:52] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:30:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:30:52] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:31:11] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:31:11] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:31:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:31:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:31:11] [Server thread/INFO]: Debug logging is disabled
+[12:31:11] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:31:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:31:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:31:11] [Server thread/INFO]: Mob Spawn Range: 4
+[12:31:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:31:11] [Server thread/INFO]: Random Lighting Updates: false
+[12:31:11] [Server thread/INFO]: Structure Info Saving: true
+[12:31:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:31:11] [Server thread/INFO]: Max TNT Explosions: 100
+[12:31:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:31:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:31:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:31:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:31:11] [Server thread/INFO]: View Distance: 10
+[12:31:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:31:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:31:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:31:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:31:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:31:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:31:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:31:11] [Server thread/INFO]: Mob Spawn Range: 4
+[12:31:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:31:11] [Server thread/INFO]: Random Lighting Updates: false
+[12:31:11] [Server thread/INFO]: Structure Info Saving: true
+[12:31:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:31:11] [Server thread/INFO]: Max TNT Explosions: 100
+[12:31:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:31:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:31:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:31:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:31:11] [Server thread/INFO]: View Distance: 10
+[12:31:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:31:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:31:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:31:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:31:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:31:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:31:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:31:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:31:11] [Server thread/INFO]: Mob Spawn Range: 4
+[12:31:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:31:11] [Server thread/INFO]: Random Lighting Updates: false
+[12:31:11] [Server thread/INFO]: Structure Info Saving: true
+[12:31:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:31:11] [Server thread/INFO]: Max TNT Explosions: 100
+[12:31:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:31:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:31:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:31:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:31:11] [Server thread/INFO]: View Distance: 10
+[12:31:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:31:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:31:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:31:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:31:11] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:31:11] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:31:11] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:31:14] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:31:14] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:31:14] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:31:14] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:31:14] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:31:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:31:14] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:31:14] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:31:14] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:31:14] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:31:14] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:31:14] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:31:14] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:31:14] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:31:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:31:14] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:31:14] [Server thread/INFO]: macmv issued server command: /tp 0 100 0
+[12:31:25] [Server thread/INFO]: {macmv=ALIVE}[m
+[12:31:26] [Server thread/INFO]: ALL_KILLED[m
+[12:31:36] [Server thread/INFO]: macmv issued server command: /reload
+[12:31:36] [Server thread/INFO]: macmv: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:31:36] [Server thread/INFO]: macmv: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:31:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:31:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:31:36] [Server thread/INFO]: Debug logging is disabled
+[12:31:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:31:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:31:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:31:36] [Server thread/INFO]: Mob Spawn Range: 4
+[12:31:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:31:36] [Server thread/INFO]: Random Lighting Updates: false
+[12:31:36] [Server thread/INFO]: Structure Info Saving: true
+[12:31:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:31:36] [Server thread/INFO]: Max TNT Explosions: 100
+[12:31:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:31:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:31:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:31:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:31:36] [Server thread/INFO]: View Distance: 10
+[12:31:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:31:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:31:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:31:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:31:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:31:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:31:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:31:36] [Server thread/INFO]: Mob Spawn Range: 4
+[12:31:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:31:36] [Server thread/INFO]: Random Lighting Updates: false
+[12:31:36] [Server thread/INFO]: Structure Info Saving: true
+[12:31:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:31:36] [Server thread/INFO]: Max TNT Explosions: 100
+[12:31:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:31:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:31:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:31:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:31:36] [Server thread/INFO]: View Distance: 10
+[12:31:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:31:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:31:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:31:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:31:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:31:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:31:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:31:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:31:36] [Server thread/INFO]: Mob Spawn Range: 4
+[12:31:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:31:36] [Server thread/INFO]: Random Lighting Updates: false
+[12:31:36] [Server thread/INFO]: Structure Info Saving: true
+[12:31:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:31:36] [Server thread/INFO]: Max TNT Explosions: 100
+[12:31:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:31:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:31:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:31:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:31:36] [Server thread/INFO]: View Distance: 10
+[12:31:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:31:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:31:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:31:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:31:36] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:31:36] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:31:36] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:31:39] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:31:39] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:31:39] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:31:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:31:39] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:31:39] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:31:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:31:39] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:31:39] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:31:39] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:31:39] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:31:39] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:31:39] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:31:39] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:31:39] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:31:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:31:39] [Server thread/INFO]: macmv: [0;32;1mReload complete.[m
+[12:31:40] [Server thread/INFO]: macmv issued server command: /to 0 100 0
+[12:31:45] [Server thread/INFO]: macmv issued server command: /tp 0 100 0
+[12:32:38] [Async Chat Thread - #0/INFO]: <macmv> cubiness[m
+[12:37:47] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:37:47] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:37:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:37:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:37:47] [Server thread/INFO]: Debug logging is disabled
+[12:37:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:37:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:37:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:47] [Server thread/INFO]: Mob Spawn Range: 4
+[12:37:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:37:47] [Server thread/INFO]: Random Lighting Updates: false
+[12:37:47] [Server thread/INFO]: Structure Info Saving: true
+[12:37:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:37:47] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:37:47] [Server thread/INFO]: View Distance: 10
+[12:37:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:37:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:37:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:47] [Server thread/INFO]: Mob Spawn Range: 4
+[12:37:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:37:47] [Server thread/INFO]: Random Lighting Updates: false
+[12:37:47] [Server thread/INFO]: Structure Info Saving: true
+[12:37:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:37:47] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:37:47] [Server thread/INFO]: View Distance: 10
+[12:37:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:37:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:37:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:37:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:47] [Server thread/INFO]: Mob Spawn Range: 4
+[12:37:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:37:47] [Server thread/INFO]: Random Lighting Updates: false
+[12:37:47] [Server thread/INFO]: Structure Info Saving: true
+[12:37:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:37:47] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:37:47] [Server thread/INFO]: View Distance: 10
+[12:37:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:47] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:37:47] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:37:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:37:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:37:47] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:37:47] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:37:47] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:37:47] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:37:47] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:37:47] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:37:47] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:37:47] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:37:47] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:37:47] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:37:47] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:37:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:37:47] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:37:50] [Server thread/INFO]: macmv issued server command: /tp 0 100 0
+[12:37:52] [Server thread/INFO]: macmv issued server command: /gamemode 2
+[12:38:00] [Server thread/INFO]: purple_master issued server command: /tp macmv
+[12:38:09] [Server thread/INFO]: purple_master issued server command: /gamemode 2
+[12:38:20] [Server thread/INFO]: {macmv=ALIVE, purple_master=ALIVE}[m
+[12:38:51] [Server thread/INFO]: macmv issued server command: /kill purple_master
+[12:39:22] [Server thread/INFO]: macmv issued server command: /gamemode 1 @a
+[12:39:24] [Server thread/INFO]: macmv issued server command: /reload
+[12:39:24] [Server thread/INFO]: macmv: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:39:24] [Server thread/INFO]: macmv: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:39:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:39:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:39:24] [Server thread/INFO]: Debug logging is disabled
+[12:39:24] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:39:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:39:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:39:24] [Server thread/INFO]: Mob Spawn Range: 4
+[12:39:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:39:24] [Server thread/INFO]: Random Lighting Updates: false
+[12:39:24] [Server thread/INFO]: Structure Info Saving: true
+[12:39:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:39:24] [Server thread/INFO]: Max TNT Explosions: 100
+[12:39:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:39:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:39:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:39:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:39:24] [Server thread/INFO]: View Distance: 10
+[12:39:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:39:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:39:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:39:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:39:24] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:39:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:39:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:39:24] [Server thread/INFO]: Mob Spawn Range: 4
+[12:39:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:39:24] [Server thread/INFO]: Random Lighting Updates: false
+[12:39:24] [Server thread/INFO]: Structure Info Saving: true
+[12:39:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:39:24] [Server thread/INFO]: Max TNT Explosions: 100
+[12:39:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:39:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:39:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:39:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:39:24] [Server thread/INFO]: View Distance: 10
+[12:39:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:39:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:39:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:39:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:39:24] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:39:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:39:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:39:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:39:24] [Server thread/INFO]: Mob Spawn Range: 4
+[12:39:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:39:24] [Server thread/INFO]: Random Lighting Updates: false
+[12:39:24] [Server thread/INFO]: Structure Info Saving: true
+[12:39:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:39:24] [Server thread/INFO]: Max TNT Explosions: 100
+[12:39:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:39:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:39:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:39:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:39:24] [Server thread/INFO]: View Distance: 10
+[12:39:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:39:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:39:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:39:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:39:24] [Server thread/INFO]: [Cubiness] Disabling Cubiness v1.0
+[12:39:24] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[12:39:24] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:39:27] [Server thread/ERROR]: Nag author: 'przerwap' of 'VoxelSniper' about the following: This plugin is not properly shutting down its async tasks when it is being reloaded.  This may cause conflicts with the newly loaded version of the plugin
+[12:39:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:39:27] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:39:27] [Server thread/INFO]: [Cubiness] Loading Cubiness v1.0
+[12:39:27] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[12:39:27] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:39:27] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[12:39:27] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:39:27] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:39:27] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:39:27] [Server thread/INFO]: [Cubiness] Enabling Cubiness v1.0
+[12:39:27] [Server thread/INFO]: [Cubiness] Registering PlayerListener...
+[12:39:27] [Server thread/INFO]: [Cubiness] Registered PlayerListener!
+[12:39:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:39:27] [Server thread/INFO]: macmv: [0;32;1mReload complete.[m
+[12:39:28] [Server thread/INFO]: macmv issued server command: /tp 0 100 0
+[12:39:48] [Server thread/INFO]: purple_master issued server command: /tp 0 100 0
